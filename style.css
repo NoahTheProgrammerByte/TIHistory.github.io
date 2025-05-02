@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'ti-83-plus-large';
+    src: url('ti-83-plus-large.ttf') format('truetype');
+  }
+body {
+ font-family: 'ti-83-plus-large', sans-serif;
+ margin: 0;
+ background: #000005;
+ color: #fff;
+}
+header {
+ background: #004080;
+ color: #fff;
+ padding: 20px 10px;
+ text-align: center;
+}
+
+header h1 {
+ margin: 0;
+}
+
+header p {
+ margin-top: 5px;
+ font-size: 1rem;
+}
+
